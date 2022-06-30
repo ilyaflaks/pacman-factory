@@ -14,3 +14,5 @@
 ### Roadmap of future improvements
 - Make the Pac-Man bounce up and down and change the image accordingly
 - Add Ms. Pac-Man
+
+MIT License
