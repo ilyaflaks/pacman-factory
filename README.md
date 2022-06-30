@@ -1,9 +1,16 @@
-# pacmen
-Factory for making pacmen
-You are given a starter.html code.
-When button "make one" is pressed you need to complete the code 
-to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
-You also need to make each pacman bounce off any wall it hits. 
-Start by getting at least one pacman positioned and viewable. 
+# Pac-Man Factory
 
+## An app where you can create any number of Pac Men who will then move randomly on the screen
 <img src="PacMan1.png">
+
+### How to run:
+- Press "Add Pac-Man" as many times as you like
+- Press "Start Game" for animation
+- You can add more Pac-Men at any point
+- Uses the Document Object Model to create animation
+- Velocity and direction randomly generated using Math.random
+- PacMan will change direction when it bounces off a wall
+
+### Roadmap of future improvements
+- Make the Pac-Man bounce up and down and change the image accordingly
+- Add Ms. Pac-Man
